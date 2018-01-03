@@ -1,6 +1,6 @@
 ## 更多内容： <http://www.bestwonderful.com>
 
-## 这是一个半吊子用户代理(agent-proxy)。
+## 这是一个rpc框架 由用户代理 wonderfulclient +  服务端 wonderfulserver 组成。
 
 
 #### 实现了基础功能：
